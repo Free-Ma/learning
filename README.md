@@ -7,7 +7,7 @@ Linux笔记
 
 #### 目录
 
-1. [linux目录结构和vi使用](./note/linux目录结构和vi使用/linux目录结构和vi使用.md)
+1. [Linux目录结构和vi使用](./note/Linux目录结构和vi使用/Linux目录结构和vi使用.md)
 2. [管理文件和目录](./note/管理文件和目录/管理文件和目录.md)
 3. [线上查询](./note/线上查询/线上查询.md)
 4. [文件压缩与解压](./note/文件压缩与解压/文件压缩与解压.md)
