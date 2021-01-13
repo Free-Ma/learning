@@ -3,6 +3,8 @@
 #### 介绍
 Linux笔记
 
+[typora](https://www.typora.io/)编辑
+
 #### 目录
 
 1. [linux目录+命令+网络配置](./linux目录+命令+网络配置.md)
