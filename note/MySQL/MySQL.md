@@ -3,3 +3,10 @@
 ### ＭySQL优点：
 
 - 体积小、速度快、成本低、开源，可以和开发语言来结合，可以移植性（跨平台），可以在不同的操作系统中使用
+
+**查看数据库：`show databases;`**
+
+**创建数据库：`create database test`**
+
+**删除数据库：`drop database test`**
+
