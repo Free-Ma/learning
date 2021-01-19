@@ -19,6 +19,7 @@ Linux笔记
 10. [计算机网络](./note/计算机网络/计算机网络.md)
 11. [数据库基础知识](./note/数据库基础知识/数据库基础知识.md)
 12. [MySQL](./note/MySQL/MySQL.md)
+13. [SQL](./note/SQL/SQL.md)
 
 #### 参与贡献
 
