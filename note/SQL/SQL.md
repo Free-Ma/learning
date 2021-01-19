@@ -32,6 +32,7 @@
      UPDATE test SET salary='35000',work_time='160',......;-- 修改多条数据
      UPDATE test SET gender='男' WHERE name='张三';-- 修改指定条件的数据
      ```
+     
    - SELECT 查询
      ```sql
      SELECT * FROM test;-- 查询test表中的所有信息，*表示所有数据
@@ -62,5 +63,6 @@
       COUNT(*)-- 统计表中元组个数
       COUNT([DISTINCT] 列名)-- 统计此列的个数
       ```
-      [DISTINCT]去重可选
-      除了COUNT(*)外，其他函数操作时，均忽略空值(null)
+     [DISTINCT]去重可选
+     
+     除了COUNT(*)外，其他函数操作时，均忽略空值(null)
