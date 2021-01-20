@@ -18,8 +18,8 @@ Linux笔记
 9. [网络操作和其他](./note/网络操作和其他/网络操作和其他.md)
 10. [计算机网络](./note/计算机网络/计算机网络.md)
 11. [数据库基础知识](./note/数据库基础知识/数据库基础知识.md)
-12. [MySQL](./note/MySQL/MySQL.md)
-13. [SQL](./note/SQL/SQL.md)
+12. [SQL-DDL](./note/SQL/SQL-DDL.md)
+13. [SQL-DML](./note/SQL/SQL-DML.md)
 
 #### 参与贡献
 
