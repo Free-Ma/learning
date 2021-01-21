@@ -92,5 +92,3 @@
       - IFNULL有两个参数，第一个参数为NULL输出第二个参数，否则输出第一个
         - `SELECT IFNULL(NULL,参数2);`
         - `SELECT IFNULL(参数1,参数2);`
-
-  - 表连接

@@ -20,6 +20,8 @@ Linux笔记
 11. [数据库基础知识](./note/数据库基础知识/数据库基础知识.md)
 12. [SQL-DDL](./note/SQL/SQL-DDL.md)
 13. [SQL-DML](./note/SQL/SQL-DML.md)
+14. [表连接](./note/SQL/表连接.md)
+15. [子查询](./note/SQL/子查询.md)
 
 #### 参与贡献
 
